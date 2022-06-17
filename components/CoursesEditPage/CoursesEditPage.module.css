@@ -1,0 +1,25 @@
+.compContainer {
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 2em;
+  margin: 1em;
+  
+  border-radius: 5px;
+  background-color: lightblue;
+
+  background: linear-gradient(
+    90deg,
+    rgba(38, 82, 128, .5) 0%,
+    rgba(108, 174, 255, .5) 3%,
+    rgba(255, 156, 254, 0.5) 100%
+  );
+}
+
+
+.buttonContainer{
+    display: flex;
+    gap:1em;
+}

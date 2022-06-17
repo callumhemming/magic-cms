@@ -1,0 +1,20 @@
+.compContainer{
+    padding: 1em;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cardsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-width:200px;
+    
+    width: 100%;
+    max-width: 500px;
+    gap:1em;
+}
