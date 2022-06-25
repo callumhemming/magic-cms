@@ -1,13 +1,12 @@
-## Welcome to Open Study College's CMS
+## Welcome to Magic CMS
 
 
-!! Deployed at https://open-study-college-cms.herokuapp.com/ !!
 
-This content management system offers a UI to manipulate the Open Study college's API and database
+This content management system will offer a UI to manipulate any API/database
 
-Ideally, through this CMS you could create, read, update and delete any data in the database. However, due to time concerns, full functionality is only available for <code> /courses </code> currently.
+Ideally, through this CMS you could create, read, update and delete any data in the database. 
 
-🚀 <code>/courses</code> offers an example of a completed  CMS UI that would eventually be applied to <code>/users</code> , <code>/carts</code> .
+
 
 
 
@@ -28,5 +27,4 @@ The port can be modified in the <code>dev</code> script
 
 
 
-##Have fun!
-Please feel free to add, delete and edit <code>/courses</code> at will.
+
